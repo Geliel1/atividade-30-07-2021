@@ -1,0 +1,19 @@
+.body {
+    background: lightseagreen;
+}
+
+.trailers {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    font-size: 20px;
+}
+
+.conteiner-img {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo {
+    margin-top: 100px;
+}
